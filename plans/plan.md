@@ -7,4 +7,6 @@
 * finish up the css
 
 ### Miscellaneous:
- * fonts- Oswald
+ * fonts-
+    * Oswald
+    * alkatra
