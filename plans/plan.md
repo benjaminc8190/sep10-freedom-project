@@ -11,14 +11,15 @@
  * fonts-
     * Oswald
     * alkatra
-### Website:
+### Website requirements:
 * Navbar
 * Parallax
 * Context
-* (History)
-* Past: Images and Text
-* Present: Images and Text
-* Future: Images, text, parallax
+* Content
+   * Past: Images and Text
+   * Present: Images and Text
+   * Future: Images, text, parallax
 * Credits
+
 ### MVP:
 * Visual Representation
