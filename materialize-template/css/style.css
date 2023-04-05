@@ -7,6 +7,18 @@ nav .brand-logo {
   font-family: 'Oswald', sans-serif;
 }
 
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
 h1 {
   font-family: 'Alkatra', cursive;
   color: #570861
