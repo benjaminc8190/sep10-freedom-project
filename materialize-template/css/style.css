@@ -21,11 +21,13 @@ a:active {
 
 h1 {
   font-family: 'Alkatra', cursive;
-  color: #570861
+  color: #570861;
+  font-size: 100px;
 }
 
 p {
   line-height: 2rem;
+  font-size: 20px;
 }
 
 .button-collapse {
