@@ -1,9 +1,9 @@
 # Plan
-### Due by end of nothing(4/60/23):
+### Due by end of Thursday(04/05/23):
 * Download template
 * Make the template look like the wireframe
 
-### Due by end of end of Friday(4/14/23):
+### Due by end of end of Friday(04/14/23):
 * Copy and paste our content
 * finish up the css
 
@@ -11,7 +11,7 @@
  * fonts-
     * Oswald
     * alkatra
-### Website requirements:
+### Website requirements(Due 05/01/23):
 * Navbar
 * Parallax
 * Context
@@ -21,7 +21,7 @@
    * Future: Images, text, parallax
 * Credits
 
-### Beyond MVP:
+### Beyond MVP(After 05/01/23):
 * Carousel for the cards
 * fix arrangement of the cards
-* Change color of the words to make text readible 
+* Change color of the words to make text readible
