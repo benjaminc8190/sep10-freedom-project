@@ -21,5 +21,5 @@
    * Future: Images, text, parallax
 * Credits
 
-### MVP:
-* Visual Representation
+### Beyond MVP:
+* Carousel for the cards
