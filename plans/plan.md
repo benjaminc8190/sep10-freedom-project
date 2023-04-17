@@ -23,3 +23,5 @@
 
 ### Beyond MVP:
 * Carousel for the cards
+* fix arrangement of the cards
+* Change color of the words to make text readible 
