@@ -29,7 +29,7 @@ p {
   line-height: 2rem;
   font-size: 20px;
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .button-collapse {
@@ -126,21 +126,34 @@ nav li a {
   align-items: stretch;
   justify-content: space-around;
 }
+
 .card-image {
   display: block;
   margin: auto;
   width: 100%;
   height: 50%;
 }
+
 .AE {
   margin-bottom: 275px;
 }
+
 .center {
   align-items: stretch;
   justify-content: space-around;
   vertical-align: middle;
 }
+
 .Future {
   font-size: 25px;
   color: black;
 }
+
+#rfid{
+  padding-bottom: 4rem;
+}
+
+#econ {
+  padding-bottom: 8rem;
+}
+
