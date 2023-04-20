@@ -149,7 +149,7 @@ nav li a {
   color: black;
 }
 
-#rfid{
+#rfid {
   padding-bottom: 4rem;
 }
 
@@ -157,3 +157,22 @@ nav li a {
   padding-bottom: 8rem;
 }
 
+#tesse {
+  padding-bottom: 3rem;
+}
+
+#bacca {
+  padding-bottom: 3rem;
+}
+
+#cards {
+  padding-bottom: 11rem;
+}
+
+#chip {
+  padding-bottom: 21rem;
+}
+
+#hotel {
+  padding-bottom: 19rem;
+}
