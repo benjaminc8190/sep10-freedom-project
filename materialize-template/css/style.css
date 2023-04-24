@@ -149,8 +149,10 @@ nav li a {
   color: black;
 }
 
+
+
 #rfid {
-  padding-bottom: 4rem;
+  padding-bottom: 128px;
 }
 
 #econ {
@@ -162,7 +164,7 @@ nav li a {
 }
 
 #bacca {
-  padding-bottom: 3rem;
+  padding-bottom: 4rem;
 }
 
 #cards {
@@ -175,4 +177,8 @@ nav li a {
 
 #hotel {
   padding-bottom: 19rem;
+}
+
+#online {
+  padding-bottom: 6rem;
 }
