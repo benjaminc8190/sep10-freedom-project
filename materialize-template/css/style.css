@@ -152,33 +152,37 @@ nav li a {
 
 
 #rfid {
-  padding-bottom: 128px;
+  padding-bottom: 99px;
 }
 
 #econ {
-  padding-bottom: 8rem;
+  padding-bottom: 128px;
+}
+
+#angel {
+  padding-bottom: 50px;
 }
 
 #tesse {
-  padding-bottom: 3rem;
+  padding-bottom: 3px;
 }
 
 #bacca {
-  padding-bottom: 4rem;
+  padding-bottom: 50px;
 }
 
 #cards {
-  padding-bottom: 11rem;
+  padding-bottom: 169px;
 }
 
 #chip {
-  padding-bottom: 21rem;
+  padding-bottom: 260px;
 }
 
 #hotel {
-  padding-bottom: 19rem;
+  padding-bottom: 250px;
 }
 
 #online {
-  padding-bottom: 6rem;
+  padding-bottom: 17px;
 }
