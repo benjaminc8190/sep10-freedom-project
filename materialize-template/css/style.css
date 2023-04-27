@@ -30,6 +30,7 @@ p {
   font-size: 20px;
   margin-top: 0;
   margin-bottom: 2rem;
+  align-items: center
 }
 
 .button-collapse {
@@ -119,7 +120,9 @@ nav li a {
   width: 100%;
   height: 50%;
   padding: 20px 20px 20px 20px;
-  margin-bottom: 0%
+  margin-bottom: 15%
+  left: 50%;
+  margin-right: -50%;
 }
 .container{
   display: flex;
@@ -135,7 +138,8 @@ nav li a {
 }
 
 .AE {
-  margin-bottom: 275px;
+  padding-bottom: 323px;
+  padding:auto;
 }
 
 .center {
@@ -156,7 +160,7 @@ nav li a {
 }
 
 #econ {
-  padding-bottom: 128px;
+  padding-bottom: 90px;
 }
 
 #angel {
@@ -164,7 +168,7 @@ nav li a {
 }
 
 #tesse {
-  padding-bottom: 3px;
+  padding-bottom: 5px;
 }
 
 #bacca {
@@ -172,17 +176,24 @@ nav li a {
 }
 
 #cards {
-  padding-bottom: 169px;
+  padding-bottom: 141px;
 }
 
 #chip {
-  padding-bottom: 260px;
+  padding-bottom: 259px;
 }
 
 #hotel {
-  padding-bottom: 250px;
+  padding-bottom: 223px;
 }
 
 #online {
-  padding-bottom: 17px;
+  padding-bottom: 19px;
+}
+#dice {
+ padding-bottom: 1.5px;
+}
+
+#slips {
+  padding-bottom: 30px;
 }
