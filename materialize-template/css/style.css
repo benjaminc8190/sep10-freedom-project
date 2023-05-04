@@ -138,33 +138,28 @@ nav li a {
 }
 
 .AE {
-  padding-bottom: 323px;
-  padding:auto;
+  padding-bottom: 271px;
+  padding: auto;
 }
-
 .center {
   align-items: stretch;
   justify-content: space-around;
   vertical-align: middle;
 }
-
 .Future {
   font-size: 25px;
   color: black;
 }
-
-
-
 #rfid {
-  padding-bottom: 99px;
+  padding-bottom: 18px;
 }
 
 #econ {
-  padding-bottom: 90px;
+  padding-bottom: 9px;
 }
 
 #angel {
-  padding-bottom: 50px;
+
 }
 
 #tesse {
