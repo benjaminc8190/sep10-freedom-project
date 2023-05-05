@@ -30,6 +30,7 @@ p {
   font-size: 20px;
   margin-top: 0;
   margin-bottom: 2rem;
+  align-items: center;
 }
 
 .button-collapse {
@@ -116,10 +117,12 @@ nav li a {
     transition: background .3s ease-in-out;
 }
 .card{
-    width: 100%;
-    height: 50%;
-    padding: 20px 20px 20px 20px;
-    margin-bottom: 0%
+  width: 100%;
+  height: 50%;
+  padding: 20px 20px 20px 20px;
+  margin-bottom: 15%
+  left: 50%;
+  margin-right: -50%;
 }
 .container{
   display: flex;
@@ -135,36 +138,32 @@ nav li a {
 }
 
 .AE {
-  margin-bottom: 275px;
+  padding-bottom: 271px;
+  padding: auto;
 }
-
 .center {
   align-items: stretch;
   justify-content: space-around;
   vertical-align: middle;
 }
-
 .Future {
   font-size: 25px;
   color: black;
 }
-
-
-
 #rfid {
-  padding-bottom: 99px;
+  padding-bottom: 18px;
 }
 
 #econ {
-  padding-bottom: 128px;
+  padding-bottom: 9px;
 }
 
 #angel {
-  padding-bottom: 50px;
+
 }
 
 #tesse {
-  padding-bottom: 3px;
+  padding-bottom: 5px;
 }
 
 #bacca {
@@ -172,18 +171,24 @@ nav li a {
 }
 
 #cards {
-  padding-bottom: 169px;
+  padding-bottom: 141px;
 }
 
 #chip {
-  padding-bottom: 260px;
+  padding-bottom: 259px;
 }
 
 #hotel {
-  padding-bottom: 250px;
+  padding-bottom: 223px;
 }
 
 #online {
-  padding-bottom: 17px;
+  padding-bottom: 19px;
+}
+#dice {
+ padding-bottom: 1.5px;
 }
 
+#slips {
+  padding-bottom: 30px;
+}
