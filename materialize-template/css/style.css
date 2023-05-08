@@ -27,7 +27,7 @@ h1 {
 
 p {
   line-height: 2rem;
-  font-size: 20px;
+  font-size: 23px;
   margin-top: 0;
   margin-bottom: 2rem;
   align-items: center;
@@ -123,6 +123,7 @@ nav li a {
   margin-bottom: 15%
   left: 50%;
   margin-right: -50%;
+  align-items: center;
 }
 .container{
   display: flex;
@@ -131,14 +132,11 @@ nav li a {
 }
 
 .card-image {
-  display: block;
   margin: auto;
-  width: 100%;
-  height: 50%;
 }
 
 .AE {
-  padding-bottom: 271px;
+  padding-bottom: 5px;
   padding: auto;
 }
 .center {
@@ -158,12 +156,8 @@ nav li a {
   padding-bottom: 9px;
 }
 
-#angel {
-
-}
-
 #tesse {
-  padding-bottom: 5px;
+  padding-bottom: 44px;
 }
 
 #bacca {
@@ -171,7 +165,7 @@ nav li a {
 }
 
 #cards {
-  padding-bottom: 141px;
+  padding-bottom: 171px;
 }
 
 #chip {
@@ -186,9 +180,5 @@ nav li a {
   padding-bottom: 19px;
 }
 #dice {
- padding-bottom: 1.5px;
-}
-
-#slips {
-  padding-bottom: 30px;
+ padding-bottom: 20px;
 }
