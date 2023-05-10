@@ -188,9 +188,9 @@ nav li a {
 }
 
 #historybg {
-  background-color: #E5FFDE;
+  background-image: linear-gradient(180deg,green, #E5FFDE, pink, red);
 }
 
 #presentbg {
-  background-color: #9DFF00;
+  background-image: linear-gradient(180deg, red, black);
 }
